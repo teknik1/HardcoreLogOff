@@ -64,7 +64,7 @@ namespace HardcoreLogOff
 
                 // Defaults Values
                 SavePrefixes = new List<string> { "drifter", "shiver", "bowtorn", "locust", "bell" },
-                TargetRestorePrefixes = new List<string> { "drifter", "shiver", "bowtorn" },
+                TargetRestorePrefixes = new List<string> { "drifter", "shiver", "bowtorn", "locust", "bell" },
                 PresenceTriggers = new List<string> { "locust", "bell" },
                 ExcludePrefixes = new List<string> { "locust-hacked" }
             };
