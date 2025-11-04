@@ -1,0 +1,12 @@
+C:\Users\kotek\source\repos\HardcoreLogOff\bin\Debug\Mods\HardcoreLogOff.deps.json
+C:\Users\kotek\source\repos\HardcoreLogOff\bin\Debug\Mods\HardcoreLogOff.dll
+C:\Users\kotek\source\repos\HardcoreLogOff\bin\Debug\Mods\HardcoreLogOff.pdb
+C:\Users\kotek\source\repos\HardcoreLogOff\obj\Debug\HardcoreLogOff.csproj.AssemblyReference.cache
+C:\Users\kotek\source\repos\HardcoreLogOff\obj\Debug\HardcoreLogOff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotek\source\repos\HardcoreLogOff\obj\Debug\HardcoreLogOff.AssemblyInfoInputs.cache
+C:\Users\kotek\source\repos\HardcoreLogOff\obj\Debug\HardcoreLogOff.AssemblyInfo.cs
+C:\Users\kotek\source\repos\HardcoreLogOff\obj\Debug\HardcoreLogOff.csproj.CoreCompileInputs.cache
+C:\Users\kotek\source\repos\HardcoreLogOff\obj\Debug\HardcoreLogOff.dll
+C:\Users\kotek\source\repos\HardcoreLogOff\obj\Debug\refint\HardcoreLogOff.dll
+C:\Users\kotek\source\repos\HardcoreLogOff\obj\Debug\HardcoreLogOff.pdb
+C:\Users\kotek\source\repos\HardcoreLogOff\obj\Debug\ref\HardcoreLogOff.dll
